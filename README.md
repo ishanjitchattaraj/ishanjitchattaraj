@@ -1,43 +1,55 @@
-# Hey there, I'm Ishanjit! 👋
+<!--  Announcement Card -->
+<table>
+  <tr>
+    <td>
+      <strong>🟢 I'm currently levelling up in web development and open to collaborating!</strong><br/><br/>
+      <strong>What I work with:</strong>
+      <ul>
+        <li>Desktop application development using C# / .NET & XAML</li>
+        <li>Full stack .NET web applications</li>
+        <li>Learning frontend with TypeScript & Tailwind CSS</li>
+      </ul>
+      <em>If you'd like to collaborate, feel free to reach out via GitHub!</em>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Full+Stack+.NET+Developer;C%23+%26+XAML+Enthusiast;Learning+TypeScript+%26+Tailwind+CSS;Always+building+something+cool+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<br/>
+
+<div align="center">
+  <img src="https://github.com/ishanjitchattaraj.png" width="90" />
+
+  <h3>Ishanjit Chattaraj</h3>
+
+  <p>Full Stack .NET Developer &nbsp;|&nbsp; C# & XAML &nbsp;|&nbsp; Learning TypeScript & Tailwind</p>
+
+  <!-- 🔽 Replace placeholders with your real email / Discord / LinkedIn -->
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/your%40email.com-555555?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/ishanjitchattaraj">
+    <img src="https://img.shields.io/badge/@ishanjitchattaraj-555555?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</div>
+
+<br/>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧰 Languages
 
-- 💼 Full Stack **.NET Developer** who loves clean architecture and smooth UIs
-- 🔷 Proficient in **C#** and **XAML**
-- 🌱 Currently learning **TypeScript** and **Tailwind CSS**
-- 🚀 Always exploring new tools and building things that matter
-- 📍 Based in the real world, living in the terminal
+<img src="https://skillicons.dev/icons?i=cs,html,css,js,ts" />
 
----
+## ⚙️ Frameworks & Tools
 
-## 🛠️ Tech Stack
-
-### 💪 Proficient In
-<p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/XAML-0C54C2?style=for-the-badge&logo=xaml&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
-</p>
-
-### 📚 Currently Learning
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=dotnet,tailwind,git,visualstudio,vscode" />
 
 ---
 
 ## 🚧 Currently Working On
 
-> Something awesome is brewing... 👀  
-> *(Update this with your current project!)*
+> *(Update this with your current project — e.g. "Building a Tailwind portfolio site" or "Learning ASP.NET Core")*
 
 ---
 
@@ -52,24 +64,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanjitchattaraj&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
----
-
-## 📬 Get In Touch
-
-<p>
-  <a href="https://github.com/ishanjitchattaraj">
-    <img src="https://img.shields.io/badge/GitHub-ishanjitchattaraj-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <!-- Add your LinkedIn, email, or portfolio below! -->
-  <!-- <a href="https://linkedin.com/in/YOUR_HANDLE">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> -->
-</p>
-
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ishanjitchattaraj&style=for-the-badge&color=6C63FF" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ishanjitchattaraj&style=flat-square&color=555555" alt="Profile views" />
 </p>
-
-<p align="center"><i>"First, solve the problem. Then, write the code." – John Johnson</i></p>
