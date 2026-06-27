@@ -1,4 +1,3 @@
-<!-- Announcement Boxes + Certificate — cert spans both rows -->
 <table>
   <tr>
     <td valign="top">
@@ -11,7 +10,6 @@
       </ul>
       <em>If you'd like to collaborate, feel free to reach out!</em>
     </td>
- 
   </tr>
   <tr>
     <td valign="top">
@@ -93,6 +91,18 @@
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+</p>
+
+---
+
+## 🌍 Languages
+
+<p>
+  <img src="https://img.shields.io/badge/🇬🇧%20English-Fluent-2ea44f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🇳🇱%20Dutch-Fluent-F36A1D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🇩🇪%20German-B1%2FB2-CC0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🇮🇳%20Hindi-Fluent-FF9933?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bengali-Fluent-6C63FF?style=for-the-badge" />
 </p>
 
 ---
