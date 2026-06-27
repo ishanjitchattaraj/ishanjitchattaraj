@@ -87,6 +87,14 @@
   <img src="https://img.shields.io/badge/Krita-3BABFF?style=for-the-badge&logo=krita&logoColor=white" />
 </p>
 
+### 🔍 Reverse Engineering & Debugging
+<p>
+  <img src="https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=nsa&logoColor=white" />
+  <img src="https://img.shields.io/badge/IDA%20Pro-4B4B4B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/x64dbg-007ACC?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scylla-6C63FF?style=for-the-badge&logoColor=white" />
+</p>
+
 ### 🐧 Development Environment
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -115,7 +123,19 @@
   <img src="https://img.shields.io/badge/Low%20Latency%20APIs-E34F26?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Auth%20Frameworks-0052CC?style=for-the-badge&logo=auth0&logoColor=white" />
   <img src="https://img.shields.io/badge/Good%20UI%20%2F%20UX-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Game%20Hacking%20%26%20Reverse%20Engineering-222222?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
+  <img src="https://img.shields.io/badge/Offensive%20Red%20Teaming-CC0000?style=for-the-badge&logo=hackthebox&logoColor=white" />
 </p>
+
+---
+
+## 🧠 How I Got Into Programming
+
+I got into programming **~5 years ago** through the game hacking scene — starting with **Roblox**, where I began exploring how games worked under the hood. What started as curiosity about exploits and cheat clients quickly pulled me deeper: reverse engineering binaries, understanding memory, and eventually picking up tools like **x64dbg**, **Ghidra**, and **IDA Pro** to go further than surface-level scripting ever could.
+
+That hands-on, low-level foundation shaped the way I think about software. From there I naturally grew into broader development — building desktop apps in **C# / .NET**, diving into backend systems, and now expanding into the web with **TypeScript** and **Tailwind CSS**.
+
+The game hacking rabbit hole turned out to be one of the best programming teachers I've had — and it eventually led me into **offensive cybersecurity and red teaming**, where I apply that same low-level thinking to real-world security research.
 
 ---
 
