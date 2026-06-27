@@ -1,15 +1,29 @@
-<!--  Announcement Card -->
+<!-- Announcement Boxes + Certificate — cert spans both rows -->
 <table>
   <tr>
-    <td>
+    <td valign="top">
       <strong>🟢 I'm currently levelling up in web development and open to collaborating!</strong><br/><br/>
       <strong>What I work with:</strong>
       <ul>
-        <li>Desktop application development using C# / .NET & XAML</li>
+        <li>Desktop application development using C# / .NET &amp; XAML</li>
         <li>Full stack .NET web applications</li>
-        <li>Learning frontend with TypeScript & Tailwind CSS</li>
+        <li>Learning frontend with TypeScript &amp; Tailwind CSS</li>
       </ul>
       <em>If you'd like to collaborate, feel free to reach out!</em>
+    </td>
+ 
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong>💼 Available for short-term contract work!</strong><br/><br/>
+      <strong>Services offered:</strong>
+      <ul>
+        <li>Frontend &amp; backend web development</li>
+        <li>Full stack applications in .NET / C# / XAML</li>
+        <li>Frontend websites with TypeScript &amp; Tailwind CSS</li>
+        <li>Websites for small businesses</li>
+      </ul>
+      <em>Interested? Reach out via email or Discord!</em>
     </td>
   </tr>
 </table>
@@ -69,10 +83,28 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+### 🎨 Design Tools
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Krita-3BABFF?style=for-the-badge&logo=krita&logoColor=white" />
+</p>
+
 ### 🐧 Development Environment
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+</p>
+
+---
+
+## 💡 Areas of Interest
+
+<p>
+  <img src="https://img.shields.io/badge/Windows%20Apps%20(.NET%20%2F%20C%23%20%2F%20XAML)-512BD4?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend%20Development%20(C%23)-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Low%20Latency%20APIs-E34F26?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Auth%20Frameworks-0052CC?style=for-the-badge&logo=auth0&logoColor=white" />
+  <img src="https://img.shields.io/badge/Good%20UI%20%2F%20UX-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ---
