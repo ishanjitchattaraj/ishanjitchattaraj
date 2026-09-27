@@ -127,34 +127,6 @@
   <img src="https://img.shields.io/badge/Offensive%20Red%20Teaming-CC0000?style=for-the-badge&logo=hackthebox&logoColor=white" />
 </p>
 
----
 
-## 🧠 How I Got Into Programming
-
-I got into programming **~5 years ago** through the game hacking scene — starting with **Roblox**, where I began exploring how games worked under the hood. What started as curiosity about exploits and cheat clients quickly pulled me deeper: reverse engineering binaries, understanding memory, and eventually picking up tools like **x64dbg**, **Ghidra**, and **IDA Pro** to go further than surface-level scripting ever could.
-
-That hands-on, low-level foundation shaped the way I think about software. From there I naturally grew into broader development — building desktop apps in **C# / .NET**, diving into backend systems, and now expanding into the web with **TypeScript** and **Tailwind CSS**.
-
-The game hacking rabbit hole turned out to be one of the best programming teachers I've had — and it eventually led me into **offensive cybersecurity and red teaming**, where I apply that same low-level thinking to real-world security research.
-
----
-
-## 🚧 Currently Working On
-
-> 🕌 **Pro bono project for a religious events non-profit in Delft**  
-> Giving back to the community through tech — building something meaningful for a great cause.
-
----
-
-## 📊 GitHub Stats
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanjitchattaraj&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ishanjitchattaraj&style=flat-square&color=6C63FF" alt="Profile views" />
-</p>
 
 <p align="center"><i>"First, solve the problem. Then, write the code." – John Johnson</i></p>
