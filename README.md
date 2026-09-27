@@ -1,30 +1,4 @@
-<table>
-  <tr>
-    <td valign="top">
-      <strong>🟢 I'm currently levelling up in web development and open to collaborating!</strong><br/><br/>
-      <strong>What I work with:</strong>
-      <ul>
-        <li>Desktop application development using C# / .NET &amp; XAML</li>
-        <li>Full stack .NET web applications</li>
-        <li>Learning frontend with TypeScript &amp; Tailwind CSS</li>
-      </ul>
-      <em>If you'd like to collaborate, feel free to reach out!</em>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <strong>💼 Available for short-term contract work!</strong><br/><br/>
-      <strong>Services offered:</strong>
-      <ul>
-        <li>Frontend &amp; backend web development</li>
-        <li>Full stack applications in .NET / C# / XAML</li>
-        <li>Frontend websites with TypeScript &amp; Tailwind CSS</li>
-        <li>Websites for small businesses</li>
-      </ul>
-      <em>Interested? Reach out via email or Discord!</em>
-    </td>
-  </tr>
-</table>
+
 
 <br/>
 
