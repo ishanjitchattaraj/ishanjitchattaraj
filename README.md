@@ -15,20 +15,12 @@
     <img src="https://img.shields.io/badge/@ishanjitchattaraj-555555?style=flat-square&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://discord.com/users/setwindowhookex">
-    <img src="https://img.shields.io/badge/setwindowhookex-555555?style=flat-square&logo=discord&logoColor=white" />
-  </a>
+
 </div>
 
 <br/>
 
----
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Full+Stack+.NET+Developer;C%23+%26+XAML+Enthusiast;Learning+TypeScript+%26+Tailwind+CSS;Dual+Linux+%26+Windows+Developer+%F0%9F%90%A7;Always+building+something+cool+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
----
 
 
 ### Proficient In
