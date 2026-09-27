@@ -56,16 +56,15 @@
 
 ---
 
-## 🛠️ Tech Stack
 
-### 💪 Proficient In
+### Proficient In
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/XAML-0C54C2?style=for-the-badge&logo=xaml&logoColor=white" />
 </p>
 
-### 📚 Currently Learning
+### Currently Learning
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
@@ -76,7 +75,7 @@
 
 
 
-### 🔍 Reverse Engineering & Debugging
+### Reverse Engineering & Debugging
 <p>
   <img src="https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=nsa&logoColor=white" />
   <img src="https://img.shields.io/badge/IDA%20Pro-4B4B4B?style=for-the-badge&logoColor=white" />
