@@ -73,19 +73,8 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### 🖥️ IDEs & Tools
-<p>
-  <img src="https://img.shields.io/badge/JetBrains%20Rider-000000?style=for-the-badge&logo=rider&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%202026-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/JetBrains%20WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
 
-### 🎨 Design Tools
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Krita-3BABFF?style=for-the-badge&logo=krita&logoColor=white" />
-</p>
+
 
 ### 🔍 Reverse Engineering & Debugging
 <p>
@@ -95,37 +84,8 @@
   <img src="https://img.shields.io/badge/Scylla-6C63FF?style=for-the-badge&logoColor=white" />
 </p>
 
-### 🐧 Development Environment
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-</p>
 
----
 
-## 🌍 Languages
-
-<p>
-  <img src="https://img.shields.io/badge/🇬🇧%20English-Fluent-2ea44f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🇳🇱%20Dutch-Fluent-F36A1D?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🇩🇪%20German-B1%2FB2-CC0000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🇮🇳%20Hindi-Fluent-FF9933?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Bengali-Fluent-6C63FF?style=for-the-badge" />
-</p>
-
----
-
-## 💡 Areas of Interest
-
-<p>
-  <img src="https://img.shields.io/badge/Windows%20Apps%20(.NET%20%2F%20C%23%20%2F%20XAML)-512BD4?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backend%20Development%20(C%23)-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Low%20Latency%20APIs-E34F26?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Auth%20Frameworks-0052CC?style=for-the-badge&logo=auth0&logoColor=white" />
-  <img src="https://img.shields.io/badge/Good%20UI%20%2F%20UX-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Game%20Hacking%20%26%20Reverse%20Engineering-222222?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
-  <img src="https://img.shields.io/badge/Offensive%20Red%20Teaming-CC0000?style=for-the-badge&logo=hackthebox&logoColor=white" />
-</p>
 
 
 
